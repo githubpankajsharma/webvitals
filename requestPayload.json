@@ -1,0 +1,8 @@
+{
+  "appId": 117,
+  "pageUID": "1172045974146386243618c3e4608206",
+  "pageName": "demo buy",
+  "eventName": "newMonkWebVitals",
+  "deviceType": "SERVER",
+  "web_vitals": { "FCP": 533, "TTFB": 171.3, "LCP": 690.7, "FID": 1.4 }
+}
